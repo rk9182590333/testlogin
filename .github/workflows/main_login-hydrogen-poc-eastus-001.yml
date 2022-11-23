@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Login-Hydrogen-POC-Eastus-001'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FEB370DF58B40E5B6CFB36E436D0724 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A23ADAB51914731AD4955DFBEF9878A }}
           package: .
